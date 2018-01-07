@@ -18,3 +18,6 @@ npm run dev
 // nodemon serve para iniciar o server igual ao comando 'node', porém ele reinicia o server a cada 'save' para não precisar fazer manualmente a cada alteração.
 // OBS: Nodemon só utilizamos localmente, quando subir para a VPS utilizaremos outro package.
 npm i -g nodemon 
+
+// package responsavel por fazer a conexão com o mysql
+npm i mysql --save-dev
