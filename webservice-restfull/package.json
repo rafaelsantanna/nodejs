@@ -4,6 +4,7 @@
   "description": "Webservice RESTful com Node.js, Restify e MySQ",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
