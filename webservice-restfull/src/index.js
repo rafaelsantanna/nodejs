@@ -1,10 +1,4 @@
 
-const restify = require('restify')
-const server = restify.createServer()
-
-server.get('/', (req, res, next) => {
-  res.send('Enjoy the silence?')
-  next()
-})
+const server = require('./server')
 
 server.listen('3456')

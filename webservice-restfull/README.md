@@ -5,11 +5,16 @@ https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy
 
 instruções para criar o projeto:
 
+//Criando o arquivo package.json
 npm init -y
 
-npm i restify eslint --save-dev (O restify é o responsável pelas rotas, ele é uma alternativa mais simples ao express)
+// restify é o responsável pelas rotas, ele é uma alternativa mais simples ao express
+npm i restify eslint --save-dev
 
-npm run dev (executa um scrit com o nome dev, para executar desta maneira foi configurando em "scripts" no arquivo packge.json)
-OBS: este script esta sendo responsável po executar o server e mais alguns comandos
+// Executa um script com o nome dev, para executar desta maneira foi configurando em "scripts" no arquivo packge.json
+// OBS: este script esta sendo responsável por executar o server src/index.js
+npm run dev 
 
-npm i -g nodemon (nodemon serve para iniciar o server igual ao comando 'node', porém ele reinicia o server a cada save para não precisar fazer manualmente a cada alteração.) OBS: Nodemon só utilizamos localmente, quando subir para o server utilizaremos outro package
+// nodemon serve para iniciar o server igual ao comando 'node', porém ele reinicia o server a cada 'save' para não precisar fazer manualmente a cada alteração.
+// OBS: Nodemon só utilizamos localmente, quando subir para a VPS utilizaremos outro package.
+npm i -g nodemon 
