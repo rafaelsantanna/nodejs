@@ -1,0 +1,16 @@
+{
+  "name": "webservice-restfull",
+  "version": "1.0.0",
+  "description": "Webservice RESTful com Node.js, Restify e MySQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "restify": "^6.3.4"
+  }
+}
