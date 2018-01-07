@@ -1,9 +1,17 @@
 
+const categories = require('../services/mysql')
+
 const routes = (server) => {
   server.get('categoria', (req, res, next) => {
-    res.send(['1', 'lalala'])
-    next()
+    categories.then(categories => {
+      res.send(categories)
+      next()
+    }).catch(error => {
+      res.send(error)
+      next()
+    })
   })
+
   server.post('categoria', (req, res, next) => {
     const { name } = req.params
     res.send(name)
