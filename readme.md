@@ -1,5 +1,8 @@
 Alguns Links:
 
+Fazer curso de Nodejs do Balta.io
+https://www.youtube.com/watch?v=wDWdqlYxfcw
+
 http://www.luiztools.com.br/post/o-que-e-nodejs-e-outras-5-duvidas-fundamentais/
 
 http://www.luiztools.com.br/post/como-criar-um-mecanismo-de-busca-com-nodejs-mongodb/
