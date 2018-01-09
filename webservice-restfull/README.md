@@ -1,4 +1,4 @@
-Webservice RESTful com Node.js, Restify e MySQ
+Webservice RESTful com Node.js, Restify e MySQL
 
 https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy
 
