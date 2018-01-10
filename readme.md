@@ -1,7 +1,7 @@
 Alguns Links:
 
 Fazer curso de Nodejs do Balta.io
-- [] https://www.youtube.com/watch?v=wDWdqlYxfcw
+- [ ] https://www.youtube.com/watch?v=wDWdqlYxfcw
 
 ---
 
