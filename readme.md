@@ -39,4 +39,4 @@ Fazer curso de Nodejs do Balta.io
 
 - [ ] http://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-nodejs-2/
 
-- [ ] Fazer algum crud utilizando o http://docs.sequelizejs.com
+- [ ] Fazer um crud utilizando o http://docs.sequelizejs.com
