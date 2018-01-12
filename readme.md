@@ -1,10 +1,14 @@
-Alguns Links:
+Todo List Nodejs, the links are in order.
+
+Nodejs + Express
+- [ ] https://www.youtube.com/playlist?list=PLbj7Uy2ll936LepP1jVZ2HGe-cyubRkAN
+
+Webservice RESTful com Node.js, Restify e MySQL
+
+- [x] https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy
 
 Criando APIs com Nodejs - Balta.io
 - [ ] https://www.youtube.com/watch?v=wDWdqlYxfcw
-
-Nodejs+Express
-- [ ] https://www.youtube.com/playlist?list=PLbj7Uy2ll936LepP1jVZ2HGe-cyubRkAN
 
 ---
 
