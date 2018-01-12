@@ -1,7 +1,10 @@
 Alguns Links:
 
-Fazer curso de Nodejs do Balta.io
+Criando APIs com Nodejs - Balta.io
 - [ ] https://www.youtube.com/watch?v=wDWdqlYxfcw
+
+Nodejs+Express
+- [ ] https://www.youtube.com/playlist?list=PLbj7Uy2ll936LepP1jVZ2HGe-cyubRkAN
 
 ---
 
