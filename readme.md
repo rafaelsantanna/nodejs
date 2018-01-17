@@ -14,7 +14,7 @@ Criando APIs com Nodejs - Balta.io
 
 - [x] http://www.luiztools.com.br/post/o-que-e-nodejs-e-outras-5-duvidas-fundamentais/
 
-- [ ] http://www.luiztools.com.br/post/as-8-duvidas-tecnicas-mais-comuns-sobre-nodejs/
+- [x] http://www.luiztools.com.br/post/as-8-duvidas-tecnicas-mais-comuns-sobre-nodejs/
 
 - [ ] http://www.luiztools.com.br/post/tutorial-nodejs-com-mongodb/
 
