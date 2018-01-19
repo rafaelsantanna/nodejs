@@ -1,5 +1,6 @@
 
 const sha1 = require('sha1')
+const jwt = require('jsonwebtoken')
 
 const auth = deps => {
   return {
@@ -14,7 +15,12 @@ const auth = deps => {
             errorHandler(error, 'Falha ao localizar o usuário', reject)
             return false
           }
-          resolve({ token: 'onasdoansodjnasdn' })
+
+          const { email, id } = results[0]
+
+          const token = jwt.sign({ email, id }, 'secretToken', { expiresIn: 60 * 60 * 24 })
+
+          resolve({ token })
         })
       })
     }
