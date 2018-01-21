@@ -11,6 +11,7 @@ const auth = deps => {
         const queryData = [email, sha1(password)]
 
         connection.query(queryString, queryData, (error, results) => {
+          console.log(results)
           if (error || !results.length) {
             errorHandler(error, 'Falha ao localizar o usuário', reject)
             return false
@@ -18,7 +19,7 @@ const auth = deps => {
 
           const { email, id } = results[0]
 
-          const token = jwt.sign({ email, id }, 'secretToken', { expiresIn: 60 * 60 * 24 })
+          const token = jwt.sign({ email, id }, process.env.JWT_SECRET, { expiresIn: 60 * 60 * 24 })
 
           resolve({ token })
         })
