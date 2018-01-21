@@ -26,3 +26,5 @@ npm i -g nodemon
 // package responsavel por fazer a conexão com o mysql
 
 npm i mysql --save-dev
+
+Encerrei na aula 22, pois já tinha conhecimento em JWT e deploy
