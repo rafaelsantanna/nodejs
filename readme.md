@@ -1,8 +1,5 @@
 Todo List Nodejs, the links are in order.
 
-Nodejs + Express
-- [ ] https://www.youtube.com/playlist?list=PLbj7Uy2ll936LepP1jVZ2HGe-cyubRkAN
-
 Webservice RESTful com Node.js, Restify e MySQL
 
 - [x] https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy
