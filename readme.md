@@ -15,7 +15,7 @@ Criando APIs com Nodejs - Balta.io
 
 - [x] http://www.luiztools.com.br/post/node-js-6-dicas-do-modulo-file-system/
 
-- [ ] http://www.luiztools.com.br/post/tutorial-nodejs-com-mongodb/
+- [x] http://www.luiztools.com.br/post/tutorial-nodejs-com-mongodb/
 
 - [ ] http://www.luiztools.com.br/post/tutorial-crud-em-node-js-com-driver-nativo-do-mongodb/
 
