@@ -17,8 +17,6 @@ Criando APIs com Nodejs - Balta.io
 
 - [x] http://www.luiztools.com.br/post/tutorial-nodejs-com-mongodb/
 
-- [ ] http://www.luiztools.com.br/post/tutorial-crud-em-node-js-com-driver-nativo-do-mongodb/
-
 - [ ] http://www.luiztools.com.br/post/boas-praticas-de-arquitetura-com-nodejs-express/
 
 - [ ] http://www.luiztools.com.br/post/entendendo-o-nodejs-event-loop/
