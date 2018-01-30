@@ -31,12 +31,6 @@ Criando APIs com Nodejs - Balta.io
 
 - [ ] http://www.luiztools.com.br/post/tdd-como-criar-unit-tests-em-node-js-com-tape/
 
-- [ ] http://www.luiztools.com.br/post/como-criar-um-mecanismo-de-busca-com-nodejs-mongodb/
-
-- [ ] http://www.luiztools.com.br/post/webscrapping-com-node-js/
-
-- [ ] http://www.luiztools.com.br/post/webscrapping-com-node-js-parte-2/
-
 - [ ] http://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-node-js/
 
 - [ ] http://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-nodejs-2/
