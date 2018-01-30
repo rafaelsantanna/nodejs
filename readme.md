@@ -31,8 +31,4 @@ Criando APIs com Nodejs - Balta.io
 
 - [ ] http://www.luiztools.com.br/post/tdd-como-criar-unit-tests-em-node-js-com-tape/
 
-- [ ] http://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-node-js/
-
-- [ ] http://www.luiztools.com.br/post/como-criar-um-bot-de-compra-e-venda-de-bitcoin-usando-nodejs-2/
-
 - [ ] Fazer um crud utilizando o http://docs.sequelizejs.com
