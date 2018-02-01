@@ -21,8 +21,6 @@ Criando APIs com Nodejs - Balta.io
 
 - [x] http://www.luiztools.com.br/post/entendendo-o-nodejs-event-loop/
 
-- [x] http://www.luiztools.com.br/post/tdd-como-criar-unit-tests-em-node-js-com-tape/
-
 - [ ] http://www.luiztools.com.br/post/como-usar-nodejs-mysql/
 
 - [ ] http://www.luiztools.com.br/post/como-criar-uma-api-com-nodejs/
