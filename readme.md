@@ -30,3 +30,12 @@ Criando APIs com Nodejs - Balta.io
 - [ ] http://www.luiztools.com.br/post/autenticacao-em-node-js-com-passport/
 
 - [ ] Fazer um crud utilizando o http://docs.sequelizejs.com
+
+Browser automated
+
+- [ ] http://www.nightmarejs.org/
+
+- [ ] http://nightwatchjs.org/
+
+- [ ] https://github.com/GoogleChrome/puppeteer
+
