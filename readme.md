@@ -21,7 +21,7 @@ Criando APIs com Nodejs - Balta.io
 
 - [x] http://www.luiztools.com.br/post/entendendo-o-nodejs-event-loop/
 
-- [ ] http://www.luiztools.com.br/post/como-usar-nodejs-mysql/
+- [x] http://www.luiztools.com.br/post/como-usar-nodejs-mysql/
 
 - [ ] http://www.luiztools.com.br/post/como-criar-uma-api-com-nodejs/
 
