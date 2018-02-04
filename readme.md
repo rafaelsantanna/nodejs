@@ -23,7 +23,7 @@ Criando APIs com Nodejs - Balta.io
 
 - [x] http://www.luiztools.com.br/post/como-usar-nodejs-mysql/
 
-- [ ] http://www.luiztools.com.br/post/como-criar-uma-api-com-nodejs/
+- [x] http://www.luiztools.com.br/post/como-criar-uma-api-com-nodejs/
 
 - [ ] http://www.luiztools.com.br/post/criando-um-chat-com-nodejs-e-socketio/
 
