@@ -1,0 +1,1 @@
+/data/mongodb/bin/mongod --dbpath /home/rafael/Projetos\ Github/learn-nodejs/node_api/data
