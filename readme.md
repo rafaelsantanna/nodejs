@@ -29,6 +29,8 @@ Criando APIs com Nodejs - Balta.io
 
 - [ ] http://www.luiztools.com.br/post/autenticacao-em-node-js-com-passport/
 
+- [ ] http://www.luiztools.com.br/post/webscrapping-com-node-js/ (Aprender para pegar job no Upwork)
+
 - [ ] Fazer um crud utilizando o http://docs.sequelizejs.com
 
 Browser automated
