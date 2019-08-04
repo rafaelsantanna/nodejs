@@ -7,10 +7,10 @@ Webservice RESTful com Node.js, Restify e MySQL
 Criando APIs com Nodejs - Balta.io
 - [ ] https://www.youtube.com/watch?v=wDWdqlYxfcw  
   
-  Playlsit RocketSeat
+Playlsit RocketSeat
 - [ ] https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei  
   
-  Nodejs RocketSeat
+Nodejs RocketSeat
 - [ ] https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp
 
 ---
