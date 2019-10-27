@@ -41,9 +41,5 @@ Nodejs RocketSeat
 
 Browser automated
 
-- [ ] http://www.nightmarejs.org/
-
-- [ ] http://nightwatchjs.org/
-
 - [ ] https://github.com/GoogleChrome/puppeteer
 
